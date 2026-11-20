@@ -116,14 +116,9 @@
 — я рада общению и совместной работе!
 
 <p align="center">
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/📧_Email-написать-A78BFA?style=for-the-badge" alt="Email"/>
+  <a href="mailto:nvisoch@mail.ru">
+    <img src="https://img.shields.io/badge/EMAIL-написать-blue?style=for-the-badge&logo=gmail" alt="Email">
   </a>
-  &nbsp;
-  <a href="https://t.me/yourtelegram">
-    <img src="https://img.shields.io/badge/💬_Telegram-написать-6366F1?style=for-the-badge" alt="Telegram"/>
-  </a>
-</p>
 
 ---
 
