@@ -4,9 +4,7 @@
   <em>Учитель физики → Создатель IT-продуктов с помощью ИИ</em>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=30%2B+лет+в+педагогике+⚛️;Осваиваю+вайбкодинг+🤖;Создаю+IT-продукты+с+помощью+ИИ+🚀" alt="Typing SVG" />
-</p>
+
 
 ---
 
